@@ -1,2 +1,2 @@
 # terminalOS-simulator
-## fpr help visit
+## for help visit
